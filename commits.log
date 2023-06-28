@@ -1,0 +1,114 @@
+commit 2fc1326c6343e85f3dbf55a980acf0db407c2079
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Mon Jun 26 14:26:30 2023 -0600
+
+    Agregando 2 párrafos
+
+commit b5711329bf579866bcbcf030818d4b969c0e4a0f
+Merge: d3d4cd7 1d744c8
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Mon Jun 26 12:33:08 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit d3d4cd716897b57599ab5c1b7f7872ac4e16f9fe
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Mon Jun 26 11:25:11 2023 -0600
+
+    Agregando las estaciones del año con fecha de inicio
+
+commit 1d744c8f6b4a6624b54ec26ef5ccbe385fff65c4
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Mon Jun 26 11:25:11 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 217ba81881ee12f1be629f4c920e1cbfae99048e
+Merge: c60d8b9 48bc1c5
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Mon Jun 26 10:46:51 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 48bc1c5f80a11fbaa22c0ec29ba90517990c27e5
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Mon Jun 26 10:18:58 2023 -0600
+
+    Agregando index.js al index.html
+
+commit c60d8b9d76d2a57b3481d0147a95c12f2ada2375
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Mon Jun 26 10:11:05 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 873c2afcd723e1d4c5812518693eb1c83e276455
+Merge: 2a47c50 c39378e
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Sun Jun 25 21:44:46 2023 -0600
+
+    Merge branch 'js'
+
+commit c39378ed2fd21ee10bbdc4e8ae4508b63719a5ea
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Sun Jun 25 21:11:52 2023 -0600
+
+    Creando el archivo index.js
+
+commit 2a47c50741c7f2532e34c868a896ffe678206728
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Sun Jun 25 20:53:01 2023 -0600
+
+    Creando el archivo style.css
+
+commit ece488e605d7ceed9c25704976549dd7e8122c68
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Sun Jun 25 19:26:02 2023 -0600
+
+    Creando archivo index.html
+
+commit d4815f383e7f1ce5c00542f6b6d2fe3b6e980dfd
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Sun Jun 18 23:48:45 2023 -0600
+
+    mensaje descriptivo del cambio otra vez.
+
+commit 140c909558374fe2a8afa5221a8e35685261b2a3
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Sun Jun 18 23:27:44 2023 -0600
+
+    Ignorando archivos .exe.
+
+commit a4c2441215fdcd511db2226d05e48888b031df7d
+Author: carsanarm <115483131+carsanarm@users.noreply.github.com>
+Date:   Fri Jun 9 21:13:19 2023 -0600
+
+    Create LICENSE
+    
+    Creando licencia del repositorio
+
+commit b68e86f5d5e181e7a4d28061817d20129a660a65
+Author: carsanarm <115483131+carsanarm@users.noreply.github.com>
+Date:   Fri Jun 9 19:30:58 2023 -0600
+
+    Create license.txt
+    
+    Agregando license.txt
+
+commit 4b1ae016afc5c7bbe0f1c25f02ee62fa9a6cb1fa
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Fri Jun 9 19:11:45 2023 -0600
+
+    Agregando más contenido al README.md
+
+commit 91b17d7b0b80c2daf1a8fa32aea949ba394dcc68
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Fri Jun 9 13:02:27 2023 -0600
+
+    Agregando contenido inicial al README.md
+
+commit 5b05efae36645d1474578ba7951f88f48f71cf0e
+Author: carsanarm <carlossanchezarm@gmail.com>
+Date:   Fri Jun 9 12:46:29 2023 -0600
+
+    Primer commit
