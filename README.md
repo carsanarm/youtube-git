@@ -1,5 +1,7 @@
 # Cursos de _Git y Github_
 
-Agregando más contenido al _README.md_ otra vez
+¿Quieres dominar el uso de _git_?
 
-Este commit es para oficializar nuestra versión **1.0.0**
+Mira este [enlace](https://jonmircha.com/git)
+
+![Flujo de Git](git-flow.png)
